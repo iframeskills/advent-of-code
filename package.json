@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "advent-of-code",
+  "main": "index.js",
+  "scripts": {
+    "day01": "node ./2018/typescript/day-01/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iframeskills/advent-of-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iframeskills/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/iframeskills/advent-of-code#readme",
+  "dependencies": {
+    "@types/node": "^10.12.12",
+    "ts-node": "^7.0.1"
+  }
+}
