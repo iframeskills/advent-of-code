@@ -6,7 +6,8 @@
   "scripts": {
     "day01": "node ./2018/typescript/day-01/main.js",
     "day01-2": "node ./2018/typescript/day-01/main2.js",
-    "test": "mocha -r ts-node/register **/*.test.ts"
+    "test": "mocha -r ts-node/register **/*.test.ts",
+    "watch": "mocha -r ts-node/register **/*.test.ts --watch"
   },
   "repository": {
     "type": "git",
